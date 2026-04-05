@@ -1,5 +1,3 @@
-## Abdoulaye Diallo
-
 Signal & Image Processing Engineer (ENSEIRB-MATMECA, Bordeaux INP) — working at the intersection of computer vision, ML engineering, and probabilistic methods.
 
 **Technical focus**
