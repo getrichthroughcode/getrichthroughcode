@@ -3,7 +3,7 @@ Signal & Image Processing Engineer (ENSEIRB-MATMECA, Bordeaux INP) — working a
 **Technical focus**
 - Edge deployment & computer vision — TensorRT, Jetson Nano, ONNX
 - ML pipelines & LLMOps — AWS, LangChain, FastAPI, Docker
-- Data engineering — DuckDB, dbt, Airflow, Spark
+- Data engineering — PostgreSQL, MongoDB, dbt, Airflow, Spark
 
 **Experience**
 ML Engineer @ VanillaHR · Computer Vision Engineer @ Atos
