@@ -6,7 +6,8 @@ Signal & Image Processing Engineer (ENSEIRB-MATMECA, Bordeaux INP) — working a
 - Data engineering — PostgreSQL, MongoDB, dbt, Airflow, Spark
 
 **Experience**
-ML Engineer @ VanillaHR · Computer Vision Engineer @ Atos
+ML Engineer @ VanillaHR · Computer Vision Engineer @ Atos · Data Scientist @ BNPP
+2024                    · 2025                            · Starting in September 2026
 
 **Open source contributions**
 MONAI · CodeCarbon
