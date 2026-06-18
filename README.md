@@ -1,18 +1,33 @@
-Signal & Image Processing Engineer (ENSEIRB-MATMECA, Bordeaux INP) — working at the intersection of computer vision, ML engineering, and probabilistic methods.
+## Abdoulaye Diallo
 
-**Technical focus**
-- Edge deployment & computer vision — TensorRT, Jetson Nano, ONNX
-- ML pipelines & LLMOps — AWS, LangChain, FastAPI, Docker
-- Data engineering — PostgreSQL, MongoDB, dbt, Airflow, Spark
-
-**Experience**
-ML Engineer @ VanillaHR · Computer Vision Engineer @ Atos · Data Scientist @ BNPP
-
-2024                    · 2025                            · Starting in September 2026
-
-**Open source contributions**
-MONAI · CodeCarbon
+Signal & image processing engineer — building toward the intersection of probabilistic methods, CV, and quantitative systems.
 
 ---
 
-Competitive basketball player (10+ years). Occasionally interested in things that aren't computers.
+Trained at ENSEIRB-MATMECA (Bordeaux INP). I gravitate toward problems where there's real math under the hood: detection pipelines with hard latency budgets, LLM systems that need to be prod-grade, data architectures that don't collapse under their own weight.
+
+---
+
+**Stack**
+
+`TensorRT` `Jetson Nano` `ONNX` `PyTorch` `FastAPI` `LangChain` `AWS` `Docker` `DuckDB` `PostgreSQL` `dbt` `Airflow` `Spark` `OCaml` `C++`
+
+---
+
+**Experience**
+
+| Role | Company | When |
+|---|---|---|
+| ML Engineer | VanillaHR | 2024 |
+| Computer Vision Engineer | Atos / Eviden | 2025 |
+| Data Scientist | BNP Paribas CIB | Sep 2026 → |
+
+---
+
+**Open source**
+
+[MONAI](https://github.com/Project-MONAI/MONAI) · dimension fix merged &nbsp;|&nbsp; [CodeCarbon](https://github.com/mlco2/codecarbon) · file handler bug fix merged
+
+---
+
+*Competitive basketball player for 10+ years. Interested in Islamic intellectual history, photography, and occasionally other things that aren't computers.*
