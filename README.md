@@ -10,7 +10,7 @@ Trained at ENSEIRB-MATMECA (Bordeaux INP). I gravitate toward problems where the
 
 **Stack**
 
-`TensorRT` `Jetson Nano` `ONNX` `PyTorch` `FastAPI` `LangChain` `AWS` `Docker` `DuckDB` `PostgreSQL` `dbt` `Airflow` `Spark` `OCaml` `C++`
+`python` `ocaml` `c++`
 
 ---
 
