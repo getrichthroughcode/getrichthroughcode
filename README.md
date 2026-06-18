@@ -4,13 +4,9 @@ Signal & image processing engineer — building toward the intersection of proba
 
 ---
 
-Trained at ENSEIRB-MATMECA (Bordeaux INP). I gravitate toward problems where there's real math under the hood: detection pipelines with hard latency budgets, LLM systems that need to be prod-grade, data architectures that don't collapse under their own weight.
-
----
-
 **Stack**
 
-`python` `ocaml` `c++`
+Mostly Python, SQL, OCaml and C++. I read docs, whatever the library, I'll figure it out.
 
 ---
 
