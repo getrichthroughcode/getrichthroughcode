@@ -30,4 +30,4 @@ Trained at ENSEIRB-MATMECA (Bordeaux INP). I gravitate toward problems where the
 
 ---
 
-*Competitive basketball player for 10+ years. Interested in Islamic intellectual history, photography, and occasionally other things that aren't computers.*
+*Competitive basketball player for 10 years. Interested in photography, and occasionally other things that aren't computers.*
