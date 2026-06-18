@@ -7,6 +7,7 @@ Signal & Image Processing Engineer (ENSEIRB-MATMECA, Bordeaux INP) — working a
 
 **Experience**
 ML Engineer @ VanillaHR · Computer Vision Engineer @ Atos · Data Scientist @ BNPP
+
 2024                    · 2025                            · Starting in September 2026
 
 **Open source contributions**
