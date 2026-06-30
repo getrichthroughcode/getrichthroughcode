@@ -22,7 +22,8 @@ Mostly Python, SQL, OCaml and C++. I read docs, whatever the library, I'll figur
 
 **Open source**
 
-[MONAI](https://github.com/Project-MONAI/MONAI) · dimension fix merged &nbsp;|&nbsp; [CodeCarbon](https://github.com/mlco2/codecarbon) · file handler bug fix merged
+- [MONAI](https://github.com/Project-MONAI/MONAI) · dimension fix merged 
+- [CodeCarbon](https://github.com/mlco2/codecarbon) · file handler bug fix merged
 
 ---
 
